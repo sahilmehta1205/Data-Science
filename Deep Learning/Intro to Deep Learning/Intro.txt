@@ -1,0 +1,1 @@
+This Directory is for all the codes taught in MIT Intro to deep learning course. Link: http://introtodeeplearning.com/
